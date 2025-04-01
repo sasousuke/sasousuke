@@ -10,7 +10,7 @@ Hi there
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sasousuke&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sasousuke&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasousuke&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasousuke&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sasousuke&theme=default&no-frame=false&no-bg=false&margin-w=4)
